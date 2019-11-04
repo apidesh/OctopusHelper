@@ -18,10 +18,10 @@ Project require to compile with library via NuGet Package Manager following
 
 Argument Description
 ----------
-1 ServerUrl: Octopus Server URL or IP Address and Port
-2 ApiKey: Octopus API Key to access the Octopus system
-3 ProjectName: Project to be export the configuration and deployment process steps
-4 OutputPath: Out put file path
+1. ServerUrl: Octopus Server URL or IP Address and Port
+2. ApiKey: Octopus API Key to access the Octopus system
+3. ProjectName: Project to be export the configuration and deployment process steps
+4. OutputPath: Out put file path
 
 
 Example Debuging with VS.NET 2019 Usage  (VS.NET 2017 is not support the .NET core 3.0)
